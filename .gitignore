@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment / Secrets
+.env
+*.env
+
+# Logs & Temp Files
+*.log
+*.tmp
+
+# Database
+*.db
+*.sqlite3
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Testing / Coverage
+.coverage
+htmlcov/
