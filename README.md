@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# devsecops-secure-app
-=======
+
 # devsecops-secure-app
 
 ## Project Overview
