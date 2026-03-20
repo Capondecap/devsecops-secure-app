@@ -135,4 +135,4 @@ This project demonstrates both exploitation and mitigation of common vulnerabili
 - Mitigation strategies: `docs/mitigation.md`
 
 The project follows DevSecOps principles by integrating security testing, vulnerability analysis, and remediation practices into the development lifecycle.
->>>>>>> f55045a (Inital commit)
+
